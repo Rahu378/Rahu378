@@ -45,10 +45,7 @@
 - 📈 Designed **Power BI/Dash/Plotly** dashboards to visualize service performance.  
 - 🔍 Integrated **Prometheus/Grafana** monitoring, reducing downtime.  
 
-### **Intern – AVIDEX INFOTECH, India** _(May 2022 – Aug 2022)_  
-- 🚀 Built web app features boosting retention by **10%**.  
-- 🐞 Reduced bug incidents by **25%** via testing/debugging.  
-- 🤝 Improved code quality through weekly reviews.  
+
 
 ---
 
