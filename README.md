@@ -96,6 +96,6 @@
 
 ## 📊 GitHub Stats  
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulreddy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddy&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulreddy&theme=radical)  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahu378&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahu378&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahu378&theme=radical)  
