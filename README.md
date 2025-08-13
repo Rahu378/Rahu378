@@ -82,7 +82,7 @@
 🏅 **Awards**  
 - 🎓 Merit-based International Scholarship – Rowan University  
 - 🥈 4th Place – Tech-A-Thon (68 teams)  
-- 🥉 7th Place – Great India Hackathon (40 teams)  
+- 🥉 Top 5  – Great India Hackathon (40 teams)  
 - 🤖 2nd Runner-up – CSE 320 Bot Tournament (108 participants)  
 
 📜 **Certifications**  
