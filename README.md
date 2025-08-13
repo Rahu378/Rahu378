@@ -6,7 +6,7 @@
 💡 Passionate about building scalable software, working with big data, and exploring AI/ML innovations.  
 📍 Open to collaborating on **AI, Cloud Computing, NLP, and Big Data** projects.  
 
-📫 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chidipudi45/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)]([https://github.com/Rahu378]) [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:rahulchidipudi45@gmail.com)  
+📫 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chidipudi45/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Rahu378) [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:rahulchidipudi45@gmail.com)  
 
 ---
 
